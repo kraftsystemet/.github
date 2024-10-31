@@ -1,3 +1,3 @@
-# Kraftsystemet
+# Kraftsystemet .github
 
-Kraftsystemet er et initiativ for å samle og vise fram åpne data om det norske kraftsystemet.
+[https://github.com/kraftsystemet](github.com/kraftsystemet) profile repo.
